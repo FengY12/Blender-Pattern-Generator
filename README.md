@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a blender script source file that allows user to generate patterns such as grid, diamond and triangle. *This project is still in early development and there might be bugs when using it*.
+This is a blender script source file that allows user to generate patterns such as grid, diamond and triangle. **This project is still in early development and there might be bugs when using it**.
 
 ## How to use it
 - Import the file in blender's text editor and run the script
